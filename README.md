@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
+<img src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif" width="100%" height="340" alt="Snake animation" />
+
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/36/73/3d/36733d81d5616c156f3065f8d53f08d0.gif"  />
@@ -40,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif" width="100%" height="340" alt="Snake animation" />
+
 
 ###
