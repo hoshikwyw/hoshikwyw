@@ -51,8 +51,12 @@ I'm **Khaing Wut Yi Win**, a passionate frontend developer from Myanmar.
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoshikwyw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikwyw&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <a href="https://github.com/hoshikwyw">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoshikwyw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/hoshikwyw">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshikwyw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
